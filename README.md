@@ -25,7 +25,8 @@ See you programming...
 <h4> - 🌱 I’m currently learning : </h4>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a>
- <a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="react native" width="40" height="40"/></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="react native" width="40" height="40"/></a>
+<a href="https://www.scrum.org/" target="_blank"><img src="https://e7.pngegg.com/pngimages/746/427/png-clipart-scrum-logo-agile-software-development-scrum-master-text-logo.png" alt="scrum" width="40" height="40"/></a>
 
 
 
