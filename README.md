@@ -9,10 +9,12 @@
 🚀 Grateful to life for putting me on this path full of opportunities.
 </h4>
 <h3 align="left">Technologies & Tools:</h3>
+<h4 align="left">
 💥Front-End : HTML5 - CSS3 - DOM - React (Hooks - LifeCycle - Routing - Forms) - Redux - Chakra UI - Framer Motion <br>
 💥Back-End : Javascript - Node JS - Express JS <br>
 💥Database : PostgreSQL - Sequelize <br>
-💥Also : Git (Branching, Gitflow) - Github - SCRUM methodology - VSCode - Notion - Slack - Postman <br><br>
+💥Also : Git (Branching, Gitflow) - Github - SCRUM methodology - VSCode - Notion - Slack - Postman 
+</h4><br><br>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
