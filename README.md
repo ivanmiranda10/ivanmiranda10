@@ -1,13 +1,14 @@
 ![I am GitHub Readme Generator's creator](https://img.wattpad.com/d665cf87d32bd994dd09a5f62b29661ba77e5bfc/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f45656970787267334a45734869773d3d2d3933373733313039312e313633303734633433643032623638313132333035383537383230362e676966?s=fit&w=720&h=720)
 
-<h1 align="center">📜"Greatness From Small Beginnings"📜</h1>
-<h3 align="center">
-How are you? I'm Ivan, Argentinian Developer happy for found the right way. I believe in progress, being able to look back and see how far i've come, that's why i'm trying to be better every day.
-Currently focused in learn new technologies and agile methodologies.
-Excited to be part of this world, and all the posibilities that's bring whit it.
-See you programming...
-</h3>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">About Me:</h3>
+<h4 align="left">
+🚀 Argentinian Full Stack Web Developer graduated from Henry's Bootcamp. <br>
+🚀 I can work in either frontend or backend, as I count with experience in technologies from both sides. <br>
+🚀 I like the challenge of learning new things in a short time, the individual work supervised or in teams applying agile methodologies. <br>
+🚀 The goal is being part of ambitious and innovative projects, as well as getting the chance to grow professionally in environments that allow me to do so. <br>
+🚀 Grateful to life for putting me on this path full of opportunities.
+</h4>
+<h3 align="left">Technologies:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
