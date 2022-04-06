@@ -54,6 +54,7 @@ Link : https://app-dogs-henry.vercel.app/
 Nøkler is an E-Commerce developed for the sale of digital video games, through keys (KEY), for diverse platforms and digital stores.
 The project involved a team of developers and was realized in a period of three weeks with sprints of one week in between, where we had to present our progress to a Product Owner.
 It has several functionalities for both the User and Administrator profiles. <br>
+My role in the development of this project was mainly in the Front-End. <br>
 Link: https://nokler-noklerhenry.vercel.app/ 
 </p>
 <p align="center">
