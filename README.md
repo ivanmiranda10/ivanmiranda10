@@ -33,7 +33,7 @@
 </p>
 _____________________________________________________________________________________________________________________________________________________
 <h3>Projects:</h3>
-<h4 align="center">🐾 Dogs App</h4>
+<h4 align="center">Dogs App</h4>
 <p align="center">
 Development of a Single Page Application for Henry's Bootcamp.
 For the Frontend I used react and redux for state management.
@@ -48,4 +48,26 @@ Link : https://app-dogs-henry.vercel.app/
 <p align="center">
 <img width="400" height="250" alt="Home" src="https://user-images.githubusercontent.com/86531814/161875108-84af01e0-f700-4181-ba31-5080bcf4aac1.png">
 <img width="400" height="250" alt="Detail" src="https://user-images.githubusercontent.com/86531814/161875162-991f145b-b539-4d45-9bce-053d35c888b8.png"> 
+</p>
+<h4 align="center">Nøkler Games</h4>
+<p align="center">
+Nøkler is an E-Commerce developed for the sale of digital video games, through keys (KEY), for diverse platforms and digital stores.
+The project involved a team of developers and was realized in a period of three weeks with sprints of one week in between, where we had to present our progress to a Product Owner.
+It has several functionalities for both the User and Administrator profiles (I attach photos for this last case). <br>
+Link: https://nokler-noklerhenry.vercel.app/ 
+</p>
+<p align="center">
+<img width="300" height="170" alt="Nokler-Admin-Home" src="https://user-images.githubusercontent.com/86531814/161883610-eb00dfc9-35f9-4017-9ab2-ec6f80a96859.png">
+<img width="300" height="170" alt="Nokler-Admin-Manage Products" src="https://user-images.githubusercontent.com/86531814/161883945-1a42a850-4851-4fea-8c03-e4d49a9d7c4c.png">
+<img width="300" height="170" alt="Nokler - Admin - Manage Users" src="https://user-images.githubusercontent.com/86531814/161884072-dd3a7bfd-f8b6-4c04-b3b8-118a7025faa5.png"> 
+</p>
+<p align="center">
+<img width="300" height="170" alt="Nokler - Admin - Refund Aproved or Denied" src="https://user-images.githubusercontent.com/86531814/161884402-12c3627a-5fdd-4a56-b5de-d289912d4c65.png">
+<img width="300" height="170" alt="Nokler - Admin - Refund Petitions" src="https://user-images.githubusercontent.com/86531814/161884481-eaaf6dc1-9ac0-4f5e-a4bf-79c36b45b9b1.png">
+<img  width="300" height="170" alt="Nokler - Admin - Add Games" src="https://user-images.githubusercontent.com/86531814/161884635-d93a3e4f-89e3-4d6d-8449-2ed9b79cf344.png">
+</p>
+<p align="center">
+<img width="300" height="170"alt="Nokler - All Games Section" src="https://user-images.githubusercontent.com/86531814/161884901-6ac04ed7-ac8b-46ba-a916-4894d0dd8a5b.png">
+<img width="300" height="170" alt="Nokler - Details 1" src="https://user-images.githubusercontent.com/86531814/161884947-469c26a3-6e59-4a95-9501-7699a2bafff4.png">
+<img width="300" height="170" alt="Nokler - Whislist" src="https://user-images.githubusercontent.com/86531814/161885002-4476183d-4571-4e81-a8e9-a636ab15f534.png"> 
 </p>
