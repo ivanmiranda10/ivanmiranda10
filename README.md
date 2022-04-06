@@ -13,7 +13,7 @@
 💥Front-End : HTML5 - CSS3 - DOM - React (Hooks - LifeCycle - Routing - Forms) - Redux - Chakra UI - Framer Motion <br>
 💥Back-End : Javascript - Node JS - Express JS <br>
 💥Database : PostgreSQL - Sequelize <br>
-💥Also : Git (Branching, Gitflow) - Github - SCRUM methodology - VSCode - Notion - Slack - Postman 
+💥Also : Git (Branching, Gitflow) - Github - SCRUM methodology - VSCode - Notion - Slack - Postman, Heroku, Vercel 
 </h4><br>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
@@ -31,7 +31,7 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.scrum.org/" target="_blank"><img src="https://e7.pngegg.com/pngimages/746/427/png-clipart-scrum-logo-agile-software-development-scrum-master-text-logo.png" alt="scrum" width="40" height="40"/></a>
 </p>
-_____________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________
 <h3>Projects:</h3>
 <h4 align="center">Dogs App</h4>
 <p align="center">
@@ -48,7 +48,7 @@ Link : https://app-dogs-henry.vercel.app/
 <p align="center">
 <img width="400" height="250" alt="Home" src="https://user-images.githubusercontent.com/86531814/161875108-84af01e0-f700-4181-ba31-5080bcf4aac1.png">
 <img width="400" height="250" alt="Detail" src="https://user-images.githubusercontent.com/86531814/161875162-991f145b-b539-4d45-9bce-053d35c888b8.png"> 
-</p>
+</p> <br>
 <h4 align="center">Nøkler Games</h4>
 <p align="center">
 Nøkler is an E-Commerce developed for the sale of digital video games, through keys (KEY), for diverse platforms and digital stores.
