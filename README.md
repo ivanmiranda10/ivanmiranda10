@@ -31,7 +31,7 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.scrum.org/" target="_blank"><img src="https://e7.pngegg.com/pngimages/746/427/png-clipart-scrum-logo-agile-software-development-scrum-master-text-logo.png" alt="scrum" width="40" height="40"/></a>
 </p>
-________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________
 <h3>Projects:</h3>
 <h4 align="center">Dogs App</h4>
 <p align="center">
@@ -72,3 +72,10 @@ Link: https://nokler-noklerhenry.vercel.app/
 <img width="300" height="170" alt="Nokler - Details 1" src="https://user-images.githubusercontent.com/86531814/161884947-469c26a3-6e59-4a95-9501-7699a2bafff4.png">
 <img width="300" height="170" alt="Nokler - Whislist" src="https://user-images.githubusercontent.com/86531814/161885002-4476183d-4571-4e81-a8e9-a636ab15f534.png"> 
 </p>
+<br>
+_____________________________________________________________________________________________________________________________________________
+Let's talk! 💬
+
+Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/patriciozubiri-dev/
+
+Email me at → 💌 bonjour@patriciozubiri.com
