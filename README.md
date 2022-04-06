@@ -31,9 +31,16 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.scrum.org/" target="_blank"><img src="https://e7.pngegg.com/pngimages/746/427/png-clipart-scrum-logo-agile-software-development-scrum-master-text-logo.png" alt="scrum" width="40" height="40"/></a>
 </p>
-________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________
 <h3>Projects:</h3>
-<h4 align="center">Dogs App</h4>
+<h4 align="center">🐾 Dogs App</h4>
+<p align="center">
+Development of a Single Page Application for Henry's Bootcamp.
+For the Frontend I used react and redux for state management.
+All components were styled with pure CSS only (no external libraries).
+The page consumes data from an API (The Dog Api) through the Backend developed in Node JS using Express and also from a Database created with PostgreSQL and Sequelize. <br>
+Link : https://app-dogs-henry.vercel.app/
+</p>
 <p align="center">
 <img width="400" height="200" alt="Landing" src="https://user-images.githubusercontent.com/86531814/161874780-2658a548-4b63-4343-bced-9d28d0ebde76.png">
 <img width="400" height="200" alt="Home" src="https://user-images.githubusercontent.com/86531814/161874939-cc616471-4e04-4a3c-b562-b8c93f798104.png">
