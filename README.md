@@ -39,6 +39,7 @@ Development of a Single Page Application for Henry's Bootcamp.
 For the Frontend I used react and redux for state management.
 All components were styled with pure CSS only (no external libraries).
 The page consumes data from an API (The Dog Api) through the Backend developed in Node JS using Express and also from a Database created with PostgreSQL and Sequelize. <br>
+I worked as a Full Stack Developer in the elaboration of this project. <br>
 Link : https://app-dogs-henry.vercel.app/
 </p>
 <p align="center">
