@@ -53,7 +53,7 @@ Link : https://app-dogs-henry.vercel.app/
 <p align="center">
 Nøkler is an E-Commerce developed for the sale of digital video games, through keys (KEY), for diverse platforms and digital stores.
 The project involved a team of developers and was realized in a period of three weeks with sprints of one week in between, where we had to present our progress to a Product Owner.
-It has several functionalities for both the User and Administrator profiles (I attach photos for this last case). <br>
+It has several functionalities for both the User and Administrator profiles. <br>
 Link: https://nokler-noklerhenry.vercel.app/ 
 </p>
 <p align="center">
@@ -77,6 +77,6 @@ ________________________________________________________________________________
 <p align="center">
 <h3>Let's talk! 💬</h3>
 Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivan-miranda--/ <br>
-Email me at → 💌 <a href="mailto:ivanmiranda.contact@gmail.com">ivanmiranda.contact@gmail.com</a><br>
-Portfolio Coming Soon...
+Email me at → ✉️ <a href="mailto:ivanmiranda.contact@gmail.com">ivanmiranda.contact@gmail.com</a><br>
+Portfolio in Process...
 </p>
