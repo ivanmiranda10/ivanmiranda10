@@ -32,8 +32,8 @@
 <a href="https://www.scrum.org/" target="_blank"><img src="https://e7.pngegg.com/pngimages/746/427/png-clipart-scrum-logo-agile-software-development-scrum-master-text-logo.png" alt="scrum" width="40" height="40"/></a>
 </p>
 _____________________________________________________________________________________________________________________________________________
-<h3>Projects:</h3>
-<h4 align="center">Dogs App</h4>
+<h2>Projects:</h2>
+<h3 align="center">Dogs App</h3>
 <p align="center">
 Development of a Single Page Application for Henry's Bootcamp.
 For the Frontend I used react and redux for state management.
@@ -49,7 +49,7 @@ Link : https://app-dogs-henry.vercel.app/
 <img width="400" height="250" alt="Home" src="https://user-images.githubusercontent.com/86531814/161875108-84af01e0-f700-4181-ba31-5080bcf4aac1.png">
 <img width="400" height="250" alt="Detail" src="https://user-images.githubusercontent.com/86531814/161875162-991f145b-b539-4d45-9bce-053d35c888b8.png"> 
 </p> <br>
-<h4 align="center">Nøkler Games</h4>
+<h3 align="center">Nøkler Games</h3>
 <p align="center">
 Nøkler is an E-Commerce developed for the sale of digital video games, through keys (KEY), for diverse platforms and digital stores.
 The project involved a team of developers and was realized in a period of three weeks with sprints of one week in between, where we had to present our progress to a Product Owner.
@@ -75,8 +75,8 @@ Link: https://nokler-noklerhenry.vercel.app/
 <br>
 _____________________________________________________________________________________________________________________________________________
 <p align="center">
-<h2>Let's talk! 💬</h2>
-<h3>Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivan-miranda--/ </h3> 
-<h3>Email me at → 💌<a href="ivanmiranda.contact@gmail.com"></a></h3>
-<h3>Portfolio Coming Soon...</h3>
+<h3>Let's talk! 💬</h3>
+Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivan-miranda--/ <br>
+Email me at → 💌 ivanmiranda.contact@gmail.com <br>
+Portfolio Coming Soon...
 </p>
