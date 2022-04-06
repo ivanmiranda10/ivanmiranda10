@@ -76,7 +76,13 @@ Link: https://nokler-noklerhenry.vercel.app/
 </p>
 <br>
 _____________________________________________________________________________________________________________________________________________
-<p align="center">
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanmiranda10&show_icons=true&locale=en&layout=compact" alt="ivanmiranda10" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanmiranda10&show_icons=true&locale=en" alt="ivanmiranda10" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanmiranda10&" alt="ivanmiranda10" /></p>
+<h4 align="center">Visitor's</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ivanmiranda10}/count.svg" alt="ivanmiranda10 Visitor's Count" /></p>
+ _____________________________________________________________________________________________________________________________________________
 <h3>Let's talk! 💬</h3>
 Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivan-miranda--/ <br>
 Email me at → ✉️ <a href="mailto:ivanmiranda.contact@gmail.com">ivanmiranda.contact@gmail.com</a><br>
