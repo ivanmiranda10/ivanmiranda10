@@ -74,8 +74,7 @@ Link: https://nokler-noklerhenry.vercel.app/
 </p>
 <br>
 _____________________________________________________________________________________________________________________________________________
-Let's talk! 💬
-
-Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/patriciozubiri-dev/
-
-Email me at → 💌 bonjour@patriciozubiri.com
+<h3>Let's talk! 💬</h3>
+<h4>Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivan-miranda--/ </h4> 
+<h4>Email me at → 💌 ivanmiranda.contact@gmail.com</h4>
+<h4>Portfolio Coming Soon 👀</h4>
