@@ -74,7 +74,9 @@ Link: https://nokler-noklerhenry.vercel.app/
 </p>
 <br>
 _____________________________________________________________________________________________________________________________________________
-<h3>Let's talk! 💬</h3>
-<h4>Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivan-miranda--/ </h4> 
-<h4>Email me at → 💌 ivanmiranda.contact@gmail.com</h4>
-<h4>Portfolio Coming Soon 👀</h4>
+<p align="center">
+<h2>Let's talk! 💬</h2>
+<h3>Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivan-miranda--/ </h3> 
+<h3>Email me at → 💌<a href="ivanmiranda.contact@gmail.com"></a></h3>
+<h3>Portfolio Coming Soon...</h3>
+</p>
