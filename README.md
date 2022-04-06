@@ -76,7 +76,8 @@ Link: https://nokler-noklerhenry.vercel.app/
 </p>
 <br>
 _____________________________________________________________________________________________________________________________________________
-<br>
+<br><br>
+<h2>Some Stats:</h2>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanmiranda10&show_icons=true&locale=en&layout=compact" alt="ivanmiranda10" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanmiranda10&show_icons=true&locale=en" alt="ivanmiranda10" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanmiranda10&" alt="ivanmiranda10" /></p>
