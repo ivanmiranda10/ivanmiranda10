@@ -36,6 +36,7 @@
 <h3>Let's talk! 💬</h3>
 Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivan-miranda--/ <br>
 Email me at → ✉️ <a href="mailto:ivanmiranda.contact@gmail.com">ivanmiranda.contact@gmail.com</a><br>
+
 _____________________________________________________________________________________________________________________________________________
 <h2>Projects:</h2>
 <h3 align="center">Dogs App</h3>
