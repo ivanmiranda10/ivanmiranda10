@@ -31,6 +31,11 @@
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.scrum.org/" target="_blank"><img src="https://e7.pngegg.com/pngimages/746/427/png-clipart-scrum-logo-agile-software-development-scrum-master-text-logo.png" alt="scrum" width="40" height="40"/></a>
 </p>
+ _____________________________________________________________________________________________________________________________________________
+
+<h3>Let's talk! 💬</h3>
+Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivan-miranda--/ <br>
+Email me at → ✉️ <a href="mailto:ivanmiranda.contact@gmail.com">ivanmiranda.contact@gmail.com</a><br>
 _____________________________________________________________________________________________________________________________________________
 <h2>Projects:</h2>
 <h3 align="center">Dogs App</h3>
@@ -83,9 +88,3 @@ ________________________________________________________________________________
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanmiranda10&" alt="ivanmiranda10" /></p>
 <h4 align="center">Visitor's</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{ivanmiranda10}/count.svg" alt="ivanmiranda10 Visitor's Count" /></p>
- _____________________________________________________________________________________________________________________________________________
-<h3>Let's talk! 💬</h3>
-Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivan-miranda--/ <br>
-Email me at → ✉️ <a href="mailto:ivanmiranda.contact@gmail.com">ivanmiranda.contact@gmail.com</a><br>
-Portfolio in Process...
-</p>
