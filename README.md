@@ -34,7 +34,7 @@
  _____________________________________________________________________________________________________________________________________________
 
 <h3>Let's talk! 💬</h3>
-Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivan-miranda--/ <br>
+Check out my LinkedIn profile → 🖥 https://www.linkedin.com/in/ivanmiranda10 <br>
 Email me at → ✉️ <a href="mailto:ivanmiranda.contact@gmail.com">ivanmiranda.contact@gmail.com</a><br>
 
 _____________________________________________________________________________________________________________________________________________
