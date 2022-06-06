@@ -10,7 +10,7 @@
 </h4>
 <h3 align="left">Technologies & Tools:</h3>
 <h4 align="left">
-💥Front-End : HTML5 - CSS3 - DOM - React (Hooks - LifeCycle - Routing - Forms) - Redux - Chakra UI - Framer Motion <br>
+💥Front-End : HTML - CSS - DOM - React (Hooks - LifeCycle - Routing - Forms) - Redux - Chakra UI - Framer Motion <br>
 💥Back-End : Javascript - Node JS - Express JS <br>
 💥Database : PostgreSQL - Sequelize <br>
 💥Also : Git (Branching, Gitflow) - Github - SCRUM methodology - VSCode - Notion - Slack - Postman, Heroku, Vercel 
