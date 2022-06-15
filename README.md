@@ -12,7 +12,7 @@
 <h4 align="left">
 💥Front-End : HTML - CSS - DOM - React (Hooks - LifeCycle - Routing - Forms) - Redux - Chakra UI - Framer Motion <br>
 💥Back-End : Javascript - Node JS - Express JS <br>
-💥Database : PostgreSQL - Sequelize <br>
+💥Database : PostgreSQL - Sequelize - MongoDB - Mongoose <br>
 💥Also : Git (Branching, Gitflow) - Github - SCRUM methodology - VSCode - Notion - Slack - Postman, Heroku, Vercel 
 </h4><br>
 <p align="center">
